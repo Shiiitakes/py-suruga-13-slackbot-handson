@@ -1,4 +1,3 @@
-#test
 # py-suruga-13-slackbot-handson
 
 こちらはPython駿河 & Unagi.py合同勉強会で行われるSlackbotハンズオンの資料です。
